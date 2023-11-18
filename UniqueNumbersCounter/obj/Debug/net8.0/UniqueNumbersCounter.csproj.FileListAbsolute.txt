@@ -1,0 +1,14 @@
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\bin\Debug\net8.0\UniqueNumbersCounter.exe
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\bin\Debug\net8.0\UniqueNumbersCounter.deps.json
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\bin\Debug\net8.0\UniqueNumbersCounter.runtimeconfig.json
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\bin\Debug\net8.0\UniqueNumbersCounter.dll
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\bin\Debug\net8.0\UniqueNumbersCounter.pdb
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\UniqueNumbersCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\UniqueNumbersCounter.AssemblyInfoInputs.cache
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\UniqueNumbersCounter.AssemblyInfo.cs
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\UniqueNumbersCounter.csproj.CoreCompileInputs.cache
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\UniqueNumbersCounter.dll
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\refint\UniqueNumbersCounter.dll
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\UniqueNumbersCounter.pdb
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\UniqueNumbersCounter.genruntimeconfig.cache
+C:\Users\luiss\github\PersonalExperiments\UniqueNumbersCounter\obj\Debug\net8.0\ref\UniqueNumbersCounter.dll
